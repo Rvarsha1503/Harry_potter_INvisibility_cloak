@@ -14,7 +14,7 @@ This project simulates the invisibility cloak effect from the Harry Potter serie
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/invisibility-cloak.git
+    git clone https://github.com/Rvarsha1503/Harry_potter_INvisibility_cloak.git
     cd invisibility-cloak
     ```
 
